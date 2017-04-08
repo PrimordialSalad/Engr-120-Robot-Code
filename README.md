@@ -31,7 +31,7 @@ The code was run from a VEX microcontroller which was located under the central 
 * It performs adequately well in high-intensity sunlight situations but can get confused as there might be little difference in IR light readings from the beacon and the ambient light.
 * It can refind the beacon if they beacon is moved slightly outside its detection range but any excessive movement of the beacon outside its detection range will cause the robot to endlessly search for it agian.  This might be caused by the robot getting stuck in the searching state and the conditions for exit from the searching state never again being met.
 
-## Engr 120 Logic Flow
+## Robot Code Logic Flow
 
 Included below is a logic flowchart that is somewhat a visual representation of the finite-state machine format of the code:
 
