@@ -35,4 +35,4 @@ The code was run from a VEX microcontroller which was located under the central 
 
 Included below is a logic flowchart that is somewhat a visual representation of the finite-state machine format of the code:
 
-![Engr 120 Robot Logic Flowchart](http://i.imgur.com/wA0IBwF.png)
+![Engr 120 Robot Logic Flowchart](http://i.imgur.com/cA7CGhN.png)
